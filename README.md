@@ -1,2 +1,2 @@
-# sicredi_pagamento
+# PagamentoBoletoService
 Projeto pagamento de boleto na cobrança
